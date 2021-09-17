@@ -1,7 +1,6 @@
 # pushyddos
-PUSHYDDOS
-git clone 
+git clone https://github.com/dahlah270/pushyddos
 
-cd 
+cd pushyddos
 
 python3 pushy.py
